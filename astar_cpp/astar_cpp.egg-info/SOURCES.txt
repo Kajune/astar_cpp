@@ -1,0 +1,6 @@
+astar.cpp
+setup.py
+astar_cpp.egg-info/PKG-INFO
+astar_cpp.egg-info/SOURCES.txt
+astar_cpp.egg-info/dependency_links.txt
+astar_cpp.egg-info/top_level.txt
